@@ -1,0 +1,34 @@
+wandb: 
+wandb: Plotting Ridge.
+wandb: Logged summary metrics.
+wandb: Logged learning curve.
+wandb: 
+wandb: Plotting Ridge.
+wandb: Logged summary metrics.
+wandb: Logged learning curve.
+wandb: 
+wandb: Plotting Ridge.
+wandb: Logged summary metrics.
+wandb: Logged learning curve.
+wandb: 
+wandb: Plotting RandomForest.
+wandb: Logged feature importances.
+wandb: Logged learning curve.
+wandb: Logged confusion matrix.
+wandb: Logged summary metrics.
+wandb: Logged class proportions.
+wandb: Logged calibration curve.
+wandb: Logged roc curve.
+wandb: Logged precision recall curve.
+wandb: 
+wandb: Plotting KNN.
+wandb: WARNING feature_importances_ or coef_ attribute not in classifier. Cannot plot feature importances.
+wandb: Logged feature importances.
+wandb: Logged learning curve.
+wandb: Logged confusion matrix.
+wandb: Logged summary metrics.
+wandb: Logged class proportions.
+wandb: Logged calibration curve.
+wandb: Logged roc curve.
+wandb: Logged precision recall curve.
+wandb: WARNING Calling wandb.login() after wandb.init() has no effect.

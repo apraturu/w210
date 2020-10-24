@@ -1,0 +1,82 @@
+2020-10-24 18:45:47,849 INFO    MainThread:25393 [wandb_init.py:_log_setup():293] Logging user logs to wandb/run-20201024_184547-qtcrvzm8/logs/debug.log
+2020-10-24 18:45:47,850 INFO    MainThread:25393 [wandb_init.py:_log_setup():294] Logging internal logs to wandb/run-20201024_184547-qtcrvzm8/logs/debug-internal.log
+2020-10-24 18:45:47,850 INFO    MainThread:25393 [wandb_setup.py:_flush():69] setting env: {}
+2020-10-24 18:45:47,850 INFO    MainThread:25393 [wandb_setup.py:_flush():69] setting user settings: {'email': 'anusha.praturu@gmail.com'}
+2020-10-24 18:45:47,850 INFO    MainThread:25393 [wandb_setup.py:_flush():69] multiprocessing start_methods=fork,spawn,forkserver
+2020-10-24 18:45:47,850 INFO    MainThread:25393 [wandb_setup.py:_flush():69] configuring jupyter hooks <wandb.sdk.wandb_init._WandbInit object at 0x7ff99d67ec90>
+2020-10-24 18:45:47,851 INFO    MainThread:25393 [wandb_run.py:finish():988] finishing run apraturu/sklearn/1c5i9tr5
+2020-10-24 18:45:47,851 INFO    MainThread:25393 [wandb_init.py:_jupyter_teardown():225] cleaning up jupyter logic
+2020-10-24 18:45:47,851 INFO    MainThread:25393 [jupyter.py:save_history():200] not saving jupyter history
+2020-10-24 18:45:47,851 INFO    MainThread:25393 [wandb_run.py:_atexit_cleanup():1263] got exitcode: 0
+2020-10-24 18:45:47,852 INFO    MainThread:25393 [wandb_run.py:_restore():1235] restore
+2020-10-24 18:45:47,855 INFO    MainThread:25393 [wandb_run.py:_wait_for_finish():1377] got exit ret: uuid: "be7b9c64626a43d48d4646db1ee8f290"
+response {
+  poll_exit_response {
+    file_counts {
+      wandb_count: 1
+      media_count: 5
+    }
+    pusher_stats {
+      uploaded_bytes: 71252
+      total_bytes: 71252
+    }
+  }
+}
+
+2020-10-24 18:45:49,863 INFO    MainThread:25393 [wandb_run.py:_wait_for_finish():1377] got exit ret: uuid: "2586823aea444db0969c72208057d83b"
+response {
+  poll_exit_response {
+    done: true
+    exit_result {
+    }
+    file_counts {
+      wandb_count: 5
+      media_count: 5
+    }
+    pusher_stats {
+      uploaded_bytes: 77881
+      total_bytes: 77881
+    }
+  }
+}
+
+2020-10-24 18:45:50,952 INFO    MainThread:25393 [wandb_run.py:_show_summary():1520] rendering summary
+2020-10-24 18:45:50,953 INFO    MainThread:25393 [wandb_run.py:_show_history():1558] rendering history
+2020-10-24 18:45:50,955 INFO    MainThread:25393 [wandb_run.py:_show_files():1586] logging synced files
+2020-10-24 18:45:52,738 INFO    MainThread:25393 [wandb_run.py:_console_start():1290] atexit reg
+2020-10-24 18:45:52,739 INFO    MainThread:25393 [wandb_run.py:_redirect():1160] redirect: SettingsConsole.WRAP
+2020-10-24 18:45:52,739 INFO    MainThread:25393 [wandb_run.py:_redirect():1191] Wrapping output streams.
+2020-10-24 18:45:52,739 INFO    MainThread:25393 [wandb_run.py:_redirect():1207] Redirects installed.
+2020-10-24 19:42:20,010 INFO    MainThread:25393 [wandb_run.py:_atexit_cleanup():1263] got exitcode: 0
+2020-10-24 19:42:20,011 INFO    MainThread:25393 [wandb_run.py:_restore():1235] restore
+2020-10-24 19:42:20,016 INFO    MainThread:25393 [wandb_run.py:_wait_for_finish():1377] got exit ret: uuid: "dcb8517a948948d19a0deec8e259ce30"
+response {
+  poll_exit_response {
+    file_counts {
+      wandb_count: 1
+    }
+    pusher_stats {
+      uploaded_bytes: 800
+      total_bytes: 800
+    }
+  }
+}
+
+2020-10-24 19:42:22,027 INFO    MainThread:25393 [wandb_run.py:_wait_for_finish():1377] got exit ret: uuid: "6e08e70bf85c47e88242d660d4fe2844"
+response {
+  poll_exit_response {
+    done: true
+    exit_result {
+    }
+    file_counts {
+      wandb_count: 4
+    }
+    pusher_stats {
+      uploaded_bytes: 5630
+      total_bytes: 5630
+    }
+  }
+}
+
+2020-10-24 19:42:23,158 INFO    MainThread:25393 [wandb_run.py:_show_files():1586] logging synced files
+2020-10-24 19:42:23,161 INFO    MainThread:25393 [internal.py:handle_exit():137] Internal process exited
