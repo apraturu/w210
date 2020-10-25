@@ -1,0 +1,48 @@
+<class 'pandas.core.frame.DataFrame'>
+Int64Index: 246091 entries, 294269 to 10909
+Data columns (total 30 columns):
+ #   Column                                                                Non-Null Count   Dtype  
+---  ------                                                                --------------   -----  
+ 0   Geographic-division                                                   246091 non-null  float64
+ 1   area-code                                                             246091 non-null  float64
+ 2   region                                                                246091 non-null  float64
+ 3   state                                                                 246091 non-null  float64
+ 4   RT                                                                    246091 non-null  float64
+ 5   person-weight                                                         246091 non-null  float64
+ 6   age                                                                   246091 non-null  float64
+ 7   citizenship-status                                                    246091 non-null  float64
+ 8   class-worker                                                          246091 non-null  float64
+ 9   education                                                             246091 non-null  float64
+ 10  marital-status                                                        246091 non-null  float64
+ 11  occupation                                                            246091 non-null  float64
+ 12  relationship                                                          246091 non-null  float64
+ 13  race                                                                  246091 non-null  float64
+ 14  sex                                                                   246091 non-null  float64
+ 15  extra-income                                                          246091 non-null  float64
+ 16  hours-per-week                                                        246091 non-null  float64
+ 17  field-of-degree                                                       246091 non-null  float64
+ 18  place-of-birth                                                        246091 non-null  float64
+ 19  stem-degree                                                           246091 non-null  float64
+ 20  Incarceration rate per 100000                                         246091 non-null  float64
+ 21  Incarceration rate: White alone                                       246091 non-null  float64
+ 22  Incarceration rate: Black or African American alone                   246091 non-null  float64
+ 23  Incarceration rate: American Indian and Alaska Native alone           246091 non-null  float64
+ 24  Incarceration rate: Asian alone                                       246091 non-null  float64
+ 25  Incarceration rate: Native Hawaiian and other Pacific Islander alone  246091 non-null  float64
+ 26  Incarceration rate: Some other race alone                             246091 non-null  float64
+ 27  Incarceration rate: Two or more races                                 246091 non-null  float64
+ 28  Incarceration rate: Hispanic or Latino                                246091 non-null  float64
+ 29  Incarceration rate: White alone, not Hispanic or Latino               246091 non-null  float64
+dtypes: float64(30)
+memory usage: 58.2 MB
+None
+wandb: 
+wandb: Plotting RandomForest.
+wandb: Logged feature importances.
+wandb: Logged learning curve.
+wandb: Logged confusion matrix.
+wandb: Logged summary metrics.
+wandb: Logged class proportions.
+wandb: Logged calibration curve.
+wandb: Logged roc curve.
+wandb: Logged precision recall curve.

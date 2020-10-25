@@ -1,0 +1,24 @@
+{
+    "os": "Darwin-19.6.0-x86_64-i386-64bit",
+    "python": "3.7.6",
+    "heartbeatAt": "2020-10-25T00:30:19.909457",
+    "startedAt": "2020-10-25T00:30:18.547052",
+    "docker": null,
+    "cpu_count": 8,
+    "cuda": null,
+    "args": [
+        "-f",
+        "/Users/anushapraturu/Library/Jupyter/runtime/kernel-48d39627-0241-420c-b7c5-07285f5f79ca.json"
+    ],
+    "state": "running",
+    "program": "<python with no main file>",
+    "git": {
+        "remote": "https://github.com/apraturu/w210.git",
+        "commit": "e843d8f0574fad24b12e0a35855fe7cba55fcea7"
+    },
+    "email": "anusha.praturu@gmail.com",
+    "root": "/Users/anushapraturu/Documents/MIDS/w210",
+    "host": "ESTNBRC7460LVML",
+    "username": "anushapraturu",
+    "executable": "/Users/anushapraturu/opt/anaconda3/bin/python"
+}

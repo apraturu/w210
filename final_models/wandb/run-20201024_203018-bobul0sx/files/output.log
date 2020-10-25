@@ -1,0 +1,38 @@
+<class 'pandas.core.frame.DataFrame'>
+Int64Index: 246216 entries, 98796 to 193821
+Data columns (total 20 columns):
+ #   Column               Non-Null Count   Dtype  
+---  ------               --------------   -----  
+ 0   Geographic-division  246216 non-null  float64
+ 1   area-code            246216 non-null  float64
+ 2   region               246216 non-null  float64
+ 3   state                246216 non-null  float64
+ 4   RT                   246216 non-null  float64
+ 5   person-weight        246216 non-null  float64
+ 6   age                  246216 non-null  float64
+ 7   citizenship-status   246216 non-null  float64
+ 8   class-worker         246216 non-null  float64
+ 9   education            246216 non-null  float64
+ 10  marital-status       246216 non-null  float64
+ 11  occupation           246216 non-null  float64
+ 12  relationship         246216 non-null  float64
+ 13  race                 246216 non-null  float64
+ 14  sex                  246216 non-null  float64
+ 15  extra-income         246216 non-null  float64
+ 16  hours-per-week       246216 non-null  float64
+ 17  field-of-degree      246216 non-null  float64
+ 18  place-of-birth       246216 non-null  float64
+ 19  stem-degree          246216 non-null  float64
+dtypes: float64(20)
+memory usage: 39.4 MB
+None
+wandb: 
+wandb: Plotting RandomForest.
+wandb: Logged feature importances.
+wandb: Logged learning curve.
+wandb: Logged confusion matrix.
+wandb: Logged summary metrics.
+wandb: Logged class proportions.
+wandb: Logged calibration curve.
+wandb: Logged roc curve.
+wandb: Logged precision recall curve.
