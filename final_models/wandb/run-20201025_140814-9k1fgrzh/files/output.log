@@ -1,0 +1,31 @@
+<class 'pandas.core.frame.DataFrame'>
+Int64Index: 26048 entries, 13456 to 20207
+Data columns (total 13 columns):
+ #   Column          Non-Null Count  Dtype  
+---  ------          --------------  -----  
+ 0   age             26048 non-null  float64
+ 1   workclass       26048 non-null  float64
+ 2   education       26048 non-null  float64
+ 3   education.num   26048 non-null  float64
+ 4   marital.status  26048 non-null  float64
+ 5   occupation      26048 non-null  float64
+ 6   relationship    26048 non-null  float64
+ 7   race            26048 non-null  float64
+ 8   sex             26048 non-null  float64
+ 9   capital.gain    26048 non-null  float64
+ 10  capital.loss    26048 non-null  float64
+ 11  hours.per.week  26048 non-null  float64
+ 12  native.country  26048 non-null  float64
+dtypes: float64(13)
+memory usage: 2.8 MB
+None
+wandb: 
+wandb: Plotting RandomForest.
+wandb: Logged feature importances.
+wandb: Logged learning curve.
+wandb: Logged confusion matrix.
+wandb: Logged summary metrics.
+wandb: Logged class proportions.
+wandb: Logged calibration curve.
+wandb: Logged roc curve.
+wandb: Logged precision recall curve.

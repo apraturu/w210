@@ -1,0 +1,23 @@
+2020-10-25 11:48:29,371 INFO    MainThread:49727 [wandb_init.py:_log_setup():293] Logging user logs to wandb/run-20201025_114829-1zv2win7/logs/debug.log
+2020-10-25 11:48:29,372 INFO    MainThread:49727 [wandb_init.py:_log_setup():294] Logging internal logs to wandb/run-20201025_114829-1zv2win7/logs/debug-internal.log
+2020-10-25 11:48:29,372 INFO    MainThread:49727 [wandb_setup.py:_flush():69] setting env: {}
+2020-10-25 11:48:29,372 INFO    MainThread:49727 [wandb_setup.py:_flush():69] setting user settings: {'email': 'anusha.praturu@gmail.com'}
+2020-10-25 11:48:29,372 INFO    MainThread:49727 [wandb_setup.py:_flush():69] multiprocessing start_methods=fork,spawn,forkserver
+2020-10-25 11:48:29,372 INFO    MainThread:49727 [wandb_setup.py:_flush():69] configuring jupyter hooks <wandb.sdk.wandb_init._WandbInit object at 0x7fcc136825d0>
+2020-10-25 11:48:30,743 INFO    MainThread:49727 [wandb_run.py:_console_start():1290] atexit reg
+2020-10-25 11:48:30,744 INFO    MainThread:49727 [wandb_run.py:_redirect():1160] redirect: SettingsConsole.WRAP
+2020-10-25 11:48:30,744 INFO    MainThread:49727 [wandb_run.py:_redirect():1191] Wrapping output streams.
+2020-10-25 11:48:30,744 INFO    MainThread:49727 [wandb_run.py:_redirect():1207] Redirects installed.
+2020-10-25 11:48:30,746 INFO    MainThread:49727 [wandb_init.py:_pause_backend():215] pausing backend
+2020-10-25 11:48:42,686 INFO    MainThread:49727 [wandb_init.py:_resume_backend():220] resuming backend
+2020-10-25 11:48:42,688 INFO    MainThread:49727 [wandb_init.py:_pause_backend():215] pausing backend
+2020-10-25 11:48:47,959 INFO    MainThread:49727 [wandb_init.py:_resume_backend():220] resuming backend
+2020-10-25 11:48:47,973 INFO    MainThread:49727 [wandb_init.py:_log_setup():293] Logging user logs to wandb/run-20201025_114847-xial00wi/logs/debug.log
+2020-10-25 11:48:47,973 INFO    MainThread:49727 [wandb_init.py:_log_setup():294] Logging internal logs to wandb/run-20201025_114847-xial00wi/logs/debug-internal.log
+2020-10-25 11:48:47,974 INFO    MainThread:49727 [wandb_setup.py:_flush():69] setting env: {}
+2020-10-25 11:48:47,974 INFO    MainThread:49727 [wandb_setup.py:_flush():69] setting user settings: {'email': 'anusha.praturu@gmail.com'}
+2020-10-25 11:48:47,974 INFO    MainThread:49727 [wandb_setup.py:_flush():69] multiprocessing start_methods=fork,spawn,forkserver
+2020-10-25 11:48:47,974 INFO    MainThread:49727 [wandb_setup.py:_flush():69] configuring jupyter hooks <wandb.sdk.wandb_init._WandbInit object at 0x7fcc136825d0>
+2020-10-25 11:48:47,975 INFO    MainThread:49727 [wandb_run.py:finish():988] finishing run apraturu/2019_newvar/1zv2win7
+2020-10-25 11:48:47,975 INFO    MainThread:49727 [wandb_init.py:_jupyter_teardown():225] cleaning up jupyter logic
+2020-10-25 11:48:47,975 INFO    MainThread:49727 [jupyter.py:save_history():200] not saving jupyter history

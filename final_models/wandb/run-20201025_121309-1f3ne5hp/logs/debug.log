@@ -1,0 +1,14 @@
+2020-10-25 12:13:09,173 INFO    MainThread:54386 [wandb_init.py:_log_setup():293] Logging user logs to wandb/run-20201025_121309-1f3ne5hp/logs/debug.log
+2020-10-25 12:13:09,173 INFO    MainThread:54386 [wandb_init.py:_log_setup():294] Logging internal logs to wandb/run-20201025_121309-1f3ne5hp/logs/debug-internal.log
+2020-10-25 12:13:09,173 INFO    MainThread:54386 [wandb_setup.py:_flush():69] setting env: {}
+2020-10-25 12:13:09,173 INFO    MainThread:54386 [wandb_setup.py:_flush():69] setting user settings: {'email': 'anusha.praturu@gmail.com'}
+2020-10-25 12:13:09,173 INFO    MainThread:54386 [wandb_setup.py:_flush():69] multiprocessing start_methods=fork,spawn,forkserver
+2020-10-25 12:13:09,173 INFO    MainThread:54386 [wandb_setup.py:_flush():69] configuring jupyter hooks <wandb.sdk.wandb_init._WandbInit object at 0x7f82bd6ab090>
+2020-10-25 12:13:10,834 INFO    MainThread:54386 [wandb_run.py:_console_start():1290] atexit reg
+2020-10-25 12:13:10,834 INFO    MainThread:54386 [wandb_run.py:_redirect():1160] redirect: SettingsConsole.WRAP
+2020-10-25 12:13:10,835 INFO    MainThread:54386 [wandb_run.py:_redirect():1191] Wrapping output streams.
+2020-10-25 12:13:10,835 INFO    MainThread:54386 [wandb_run.py:_redirect():1207] Redirects installed.
+2020-10-25 12:13:10,837 INFO    MainThread:54386 [wandb_init.py:_pause_backend():215] pausing backend
+2020-10-25 12:13:22,382 INFO    MainThread:54386 [wandb_init.py:_resume_backend():220] resuming backend
+2020-10-25 12:14:14,833 INFO    MainThread:54386 [wandb_init.py:_pause_backend():215] pausing backend
+2020-10-25 12:14:14,838 INFO    MainThread:54386 [wandb_init.py:_resume_backend():220] resuming backend

@@ -1,0 +1,41 @@
+<class 'pandas.core.frame.DataFrame'>
+Int64Index: 493157 entries, 479751 to 469271
+Data columns (total 20 columns):
+ #   Column               Non-Null Count   Dtype  
+---  ------               --------------   -----  
+ 0   Geographic-division  493157 non-null  float64
+ 1   area-code            493157 non-null  float64
+ 2   region               493157 non-null  float64
+ 3   state                493157 non-null  float64
+ 4   RT                   493157 non-null  float64
+ 5   person-weight        493157 non-null  float64
+ 6   age                  493157 non-null  float64
+ 7   citizenship-status   493157 non-null  float64
+ 8   class-worker         493157 non-null  float64
+ 9   education            493157 non-null  float64
+ 10  marital-status       493157 non-null  float64
+ 11  occupation           493157 non-null  float64
+ 12  relationship         493157 non-null  float64
+ 13  race                 493157 non-null  float64
+ 14  sex                  493157 non-null  float64
+ 15  extra-income         493157 non-null  float64
+ 16  hours-per-week       493157 non-null  float64
+ 17  field-of-degree      493157 non-null  float64
+ 18  place-of-birth       493157 non-null  float64
+ 19  stem-degree          493157 non-null  float64
+dtypes: float64(20)
+memory usage: 79.0 MB
+None
+wandb: 
+wandb: Plotting LogisticRegression.
+wandb: Logged feature importances.
+wandb: Logged learning curve.
+wandb: Logged confusion matrix.
+wandb: Logged summary metrics.
+wandb: Logged class proportions.
+wandb: Logged calibration curve.
+wandb: WARNING wandb uses only the first 10000 datapoints to create the plots.
+wandb: WARNING wandb uses only the first 10000 datapoints to create the plots.
+WARNING:root:Truncating wandb.Table object to 10000 rows.
+wandb: Logged roc curve.
+wandb: Logged precision recall curve.

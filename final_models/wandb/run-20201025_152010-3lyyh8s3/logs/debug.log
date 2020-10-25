@@ -1,0 +1,82 @@
+2020-10-25 15:20:10,450 INFO    MainThread:70935 [wandb_init.py:_log_setup():293] Logging user logs to wandb/run-20201025_152010-3lyyh8s3/logs/debug.log
+2020-10-25 15:20:10,450 INFO    MainThread:70935 [wandb_init.py:_log_setup():294] Logging internal logs to wandb/run-20201025_152010-3lyyh8s3/logs/debug-internal.log
+2020-10-25 15:20:10,450 INFO    MainThread:70935 [wandb_setup.py:_flush():69] setting env: {}
+2020-10-25 15:20:10,450 INFO    MainThread:70935 [wandb_setup.py:_flush():69] setting user settings: {'email': 'anusha.praturu@gmail.com'}
+2020-10-25 15:20:10,450 INFO    MainThread:70935 [wandb_setup.py:_flush():69] multiprocessing start_methods=fork,spawn,forkserver
+2020-10-25 15:20:10,450 INFO    MainThread:70935 [wandb_setup.py:_flush():69] configuring jupyter hooks <wandb.sdk.wandb_init._WandbInit object at 0x7f9c04794b50>
+2020-10-25 15:20:11,966 INFO    MainThread:70935 [wandb_run.py:_console_start():1290] atexit reg
+2020-10-25 15:20:11,967 INFO    MainThread:70935 [wandb_run.py:_redirect():1160] redirect: SettingsConsole.WRAP
+2020-10-25 15:20:11,967 INFO    MainThread:70935 [wandb_run.py:_redirect():1191] Wrapping output streams.
+2020-10-25 15:20:11,967 INFO    MainThread:70935 [wandb_run.py:_redirect():1207] Redirects installed.
+2020-10-25 15:20:11,969 INFO    MainThread:70935 [wandb_init.py:_pause_backend():215] pausing backend
+2020-10-25 15:20:21,681 INFO    MainThread:70935 [wandb_init.py:_resume_backend():220] resuming backend
+2020-10-25 15:20:28,144 INFO    MainThread:70935 [wandb_init.py:_pause_backend():215] pausing backend
+2020-10-25 15:20:28,150 INFO    MainThread:70935 [wandb_init.py:_resume_backend():220] resuming backend
+2020-10-25 15:20:30,709 INFO    MainThread:70935 [wandb_init.py:_pause_backend():215] pausing backend
+2020-10-25 15:20:31,601 INFO    MainThread:70935 [wandb_init.py:_resume_backend():220] resuming backend
+2020-10-25 15:20:33,246 INFO    MainThread:70935 [wandb_init.py:_pause_backend():215] pausing backend
+2020-10-25 15:20:33,745 INFO    MainThread:70935 [wandb_init.py:_resume_backend():220] resuming backend
+2020-10-25 15:20:33,986 INFO    MainThread:70935 [wandb_init.py:_pause_backend():215] pausing backend
+2020-10-25 15:20:34,904 INFO    MainThread:70935 [wandb_init.py:_resume_backend():220] resuming backend
+2020-10-25 15:20:35,747 INFO    MainThread:70935 [wandb_init.py:_pause_backend():215] pausing backend
+2020-10-25 15:20:35,895 INFO    MainThread:70935 [wandb_init.py:_resume_backend():220] resuming backend
+2020-10-25 15:20:42,002 INFO    MainThread:70935 [wandb_init.py:_pause_backend():215] pausing backend
+2020-10-25 15:20:45,766 INFO    MainThread:70935 [wandb_init.py:_resume_backend():220] resuming backend
+2020-10-25 15:20:46,411 INFO    MainThread:70935 [wandb_init.py:_pause_backend():215] pausing backend
+2020-10-25 15:20:47,112 INFO    MainThread:70935 [wandb_init.py:_resume_backend():220] resuming backend
+2020-10-25 15:20:47,116 INFO    MainThread:70935 [wandb_init.py:_pause_backend():215] pausing backend
+2020-10-25 15:20:51,839 INFO    MainThread:70935 [wandb_init.py:_resume_backend():220] resuming backend
+2020-10-25 15:20:58,752 INFO    MainThread:70935 [wandb_init.py:_pause_backend():215] pausing backend
+2020-10-25 15:20:58,762 INFO    MainThread:70935 [wandb_init.py:_resume_backend():220] resuming backend
+2020-10-25 15:20:58,855 INFO    MainThread:70935 [wandb_init.py:_pause_backend():215] pausing backend
+2020-10-25 15:20:58,861 INFO    MainThread:70935 [wandb_init.py:_resume_backend():220] resuming backend
+2020-10-25 15:20:58,921 INFO    MainThread:70935 [wandb_run.py:_config_callback():591] config_cb None None {'_wandb': {'cli_version': '0.10.8', 'python_version': '3.7.6', 'is_jupyter_run': True, 'is_kaggle_kernel': False, 'framework': 'sklearn', 'viz': {'feature_importances': {'id': 'wandb/feature_importances/v1', 'historyFieldSettings': {'key': 'feature_importances', 'x-axis': '_step'}}}}}
+2020-10-25 15:22:46,726 INFO    MainThread:70935 [wandb_run.py:_config_callback():591] config_cb None None {'_wandb': {'cli_version': '0.10.8', 'python_version': '3.7.6', 'is_jupyter_run': True, 'is_kaggle_kernel': False, 'framework': 'sklearn', 'viz': {'feature_importances': {'id': 'wandb/feature_importances/v1', 'historyFieldSettings': {'key': 'feature_importances', 'x-axis': '_step'}}, 'learning_curve': {'id': 'wandb/learning_curve/v1', 'historyFieldSettings': {'key': 'learning_curve', 'x-axis': '_step'}}}}}
+2020-10-25 15:22:47,857 INFO    MainThread:70935 [wandb_run.py:_config_callback():591] config_cb None None {'_wandb': {'cli_version': '0.10.8', 'python_version': '3.7.6', 'is_jupyter_run': True, 'is_kaggle_kernel': False, 'framework': 'sklearn', 'viz': {'feature_importances': {'id': 'wandb/feature_importances/v1', 'historyFieldSettings': {'key': 'feature_importances', 'x-axis': '_step'}}, 'learning_curve': {'id': 'wandb/learning_curve/v1', 'historyFieldSettings': {'key': 'learning_curve', 'x-axis': '_step'}}, 'confusion_matrix': {'id': 'wandb/confusion_matrix/v1', 'historyFieldSettings': {'key': 'confusion_matrix', 'x-axis': '_step'}}}}}
+2020-10-25 15:23:03,329 INFO    MainThread:70935 [wandb_run.py:_config_callback():591] config_cb None None {'_wandb': {'cli_version': '0.10.8', 'python_version': '3.7.6', 'is_jupyter_run': True, 'is_kaggle_kernel': False, 'framework': 'sklearn', 'viz': {'feature_importances': {'id': 'wandb/feature_importances/v1', 'historyFieldSettings': {'key': 'feature_importances', 'x-axis': '_step'}}, 'learning_curve': {'id': 'wandb/learning_curve/v1', 'historyFieldSettings': {'key': 'learning_curve', 'x-axis': '_step'}}, 'confusion_matrix': {'id': 'wandb/confusion_matrix/v1', 'historyFieldSettings': {'key': 'confusion_matrix', 'x-axis': '_step'}}, 'summary_metrics': {'id': 'wandb/metrics/v1', 'historyFieldSettings': {'key': 'summary_metrics', 'x-axis': '_step'}}}}}
+2020-10-25 15:23:04,766 INFO    MainThread:70935 [wandb_run.py:_config_callback():591] config_cb None None {'_wandb': {'cli_version': '0.10.8', 'python_version': '3.7.6', 'is_jupyter_run': True, 'is_kaggle_kernel': False, 'framework': 'sklearn', 'viz': {'feature_importances': {'id': 'wandb/feature_importances/v1', 'historyFieldSettings': {'key': 'feature_importances', 'x-axis': '_step'}}, 'learning_curve': {'id': 'wandb/learning_curve/v1', 'historyFieldSettings': {'key': 'learning_curve', 'x-axis': '_step'}}, 'confusion_matrix': {'id': 'wandb/confusion_matrix/v1', 'historyFieldSettings': {'key': 'confusion_matrix', 'x-axis': '_step'}}, 'summary_metrics': {'id': 'wandb/metrics/v1', 'historyFieldSettings': {'key': 'summary_metrics', 'x-axis': '_step'}}, 'class_proportions': {'id': 'wandb/class_proportions/v1', 'historyFieldSettings': {'key': 'class_proportions', 'x-axis': '_step'}}}}}
+2020-10-25 15:23:11,913 INFO    MainThread:70935 [wandb_run.py:_config_callback():591] config_cb None None {'_wandb': {'cli_version': '0.10.8', 'python_version': '3.7.6', 'is_jupyter_run': True, 'is_kaggle_kernel': False, 'framework': 'sklearn', 'viz': {'feature_importances': {'id': 'wandb/feature_importances/v1', 'historyFieldSettings': {'key': 'feature_importances', 'x-axis': '_step'}}, 'learning_curve': {'id': 'wandb/learning_curve/v1', 'historyFieldSettings': {'key': 'learning_curve', 'x-axis': '_step'}}, 'confusion_matrix': {'id': 'wandb/confusion_matrix/v1', 'historyFieldSettings': {'key': 'confusion_matrix', 'x-axis': '_step'}}, 'summary_metrics': {'id': 'wandb/metrics/v1', 'historyFieldSettings': {'key': 'summary_metrics', 'x-axis': '_step'}}, 'class_proportions': {'id': 'wandb/class_proportions/v1', 'historyFieldSettings': {'key': 'class_proportions', 'x-axis': '_step'}}, 'calibration_curve': {'id': 'wandb/calibration/v1', 'historyFieldSettings': {'key': 'calibration_curve', 'x-axis': '_step'}}}}}
+2020-10-25 15:23:12,766 INFO    MainThread:70935 [wandb_run.py:_config_callback():591] config_cb None None {'_wandb': {'cli_version': '0.10.8', 'python_version': '3.7.6', 'is_jupyter_run': True, 'is_kaggle_kernel': False, 'framework': 'sklearn', 'viz': {'feature_importances': {'id': 'wandb/feature_importances/v1', 'historyFieldSettings': {'key': 'feature_importances', 'x-axis': '_step'}}, 'learning_curve': {'id': 'wandb/learning_curve/v1', 'historyFieldSettings': {'key': 'learning_curve', 'x-axis': '_step'}}, 'confusion_matrix': {'id': 'wandb/confusion_matrix/v1', 'historyFieldSettings': {'key': 'confusion_matrix', 'x-axis': '_step'}}, 'summary_metrics': {'id': 'wandb/metrics/v1', 'historyFieldSettings': {'key': 'summary_metrics', 'x-axis': '_step'}}, 'class_proportions': {'id': 'wandb/class_proportions/v1', 'historyFieldSettings': {'key': 'class_proportions', 'x-axis': '_step'}}, 'calibration_curve': {'id': 'wandb/calibration/v1', 'historyFieldSettings': {'key': 'calibration_curve', 'x-axis': '_step'}}, 'roc': {'id': 'wandb/roc/v1', 'historyFieldSettings': {'key': 'roc', 'x-axis': '_step'}}}}}
+2020-10-25 15:23:13,934 INFO    MainThread:70935 [wandb_run.py:_config_callback():591] config_cb None None {'_wandb': {'cli_version': '0.10.8', 'python_version': '3.7.6', 'is_jupyter_run': True, 'is_kaggle_kernel': False, 'framework': 'sklearn', 'viz': {'feature_importances': {'id': 'wandb/feature_importances/v1', 'historyFieldSettings': {'key': 'feature_importances', 'x-axis': '_step'}}, 'learning_curve': {'id': 'wandb/learning_curve/v1', 'historyFieldSettings': {'key': 'learning_curve', 'x-axis': '_step'}}, 'confusion_matrix': {'id': 'wandb/confusion_matrix/v1', 'historyFieldSettings': {'key': 'confusion_matrix', 'x-axis': '_step'}}, 'summary_metrics': {'id': 'wandb/metrics/v1', 'historyFieldSettings': {'key': 'summary_metrics', 'x-axis': '_step'}}, 'class_proportions': {'id': 'wandb/class_proportions/v1', 'historyFieldSettings': {'key': 'class_proportions', 'x-axis': '_step'}}, 'calibration_curve': {'id': 'wandb/calibration/v1', 'historyFieldSettings': {'key': 'calibration_curve', 'x-axis': '_step'}}, 'roc': {'id': 'wandb/roc/v1', 'historyFieldSettings': {'key': 'roc', 'x-axis': '_step'}}, 'precision_recall': {'id': 'wandb/pr_curve/v1', 'historyFieldSettings': {'key': 'precision_recall', 'x-axis': '_step'}}}}}
+2020-10-25 15:23:13,938 INFO    MainThread:70935 [wandb_init.py:_pause_backend():215] pausing backend
+2020-10-25 17:52:59,752 INFO    MainThread:70935 [wandb_init.py:_resume_backend():220] resuming backend
+2020-10-25 17:52:59,754 INFO    MainThread:70935 [wandb_init.py:_pause_backend():215] pausing backend
+2020-10-25 17:53:24,008 INFO    MainThread:70935 [wandb_init.py:_resume_backend():220] resuming backend
+2020-10-25 17:53:34,300 INFO    MainThread:70935 [wandb_init.py:_pause_backend():215] pausing backend
+2020-10-25 19:42:45,533 INFO    MainThread:70935 [wandb_run.py:_atexit_cleanup():1263] got exitcode: 0
+2020-10-25 19:42:45,534 INFO    MainThread:70935 [wandb_run.py:_restore():1235] restore
+2020-10-25 19:42:45,541 INFO    MainThread:70935 [wandb_run.py:_wait_for_finish():1377] got exit ret: uuid: "06f7eea21f8b456cb96b1521f7496a0c"
+response {
+  poll_exit_response {
+    file_counts {
+      wandb_count: 1
+      media_count: 8
+    }
+    pusher_stats {
+      uploaded_bytes: 254122
+      total_bytes: 254122
+    }
+  }
+}
+
+2020-10-25 19:42:47,554 INFO    MainThread:70935 [wandb_run.py:_wait_for_finish():1377] got exit ret: uuid: "1d76f25fab89427eb1d86952f1fc5782"
+response {
+  poll_exit_response {
+    done: true
+    exit_result {
+    }
+    file_counts {
+      wandb_count: 5
+      media_count: 8
+    }
+    pusher_stats {
+      uploaded_bytes: 264166
+      total_bytes: 264166
+    }
+  }
+}
+
+2020-10-25 19:42:48,672 INFO    MainThread:70935 [wandb_run.py:_show_summary():1520] rendering summary
+2020-10-25 19:42:48,674 INFO    MainThread:70935 [wandb_run.py:_show_history():1558] rendering history
+2020-10-25 19:42:48,675 INFO    MainThread:70935 [wandb_run.py:_show_files():1586] logging synced files
+2020-10-25 19:42:48,679 INFO    MainThread:70935 [internal.py:handle_exit():137] Internal process exited
