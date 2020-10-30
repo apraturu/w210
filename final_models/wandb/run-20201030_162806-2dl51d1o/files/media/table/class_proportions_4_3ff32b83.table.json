@@ -1,0 +1,1 @@
+{"columns": ["class", "dataset", "count"], "data": [["<=50K", "train", 893063], ["<=50K", "test", 223606], [">50K", "train", 578373], [">50K", "test", 144253]]}
