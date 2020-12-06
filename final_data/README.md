@@ -1,0 +1,1 @@
+Local folder where final dataset was hosted (files too big for git). In order to run any work related to the final dataset, download the final dataset from our [landing page](https://people.ischool.berkeley.edu/~alexwest/w210_census_income_html/) and upload to this folder in your cloned repository.
